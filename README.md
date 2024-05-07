@@ -58,6 +58,7 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 ### Boilerplate Starter Kits
 - [BoxyHQ](https://github.com/boxyhq/saas-starter-kit) - Enterprise ready, open source, and powered by SAML Jackson.
 - [Just Launch It](https://www.justlaunch.it/) - Sveltekit boilerplate.
+- [Indie Starter](https://indie-starter.dev) - Speed up your startup launch
 - [LaraFast](https://larafast.com) - Laravel boilerplate with ready-to-go components.
 - [LaunchFast](https://www.launchfa.st) - Astro, Next.js, and SvelteKit boilerplates for.
 - [Nextless.js](https://nextlessjs.com) - Next.js Boilerplate with Auth, Multi-tenancy & Team, etc.
@@ -70,7 +71,6 @@ Learn even more from reading interviews from SaaS founders with at least $500 MR
 - [React Native Boilerplate](https://reactnativeboilerplate.com) - Mobile SaaS Boilerplate to launch on iOS and Android.
 - [DevToDollars](https://devtodollars.com) - Open-source Flutter boilerplate.
 - [Shipixen](https://shipixen.com) - Next.js boilerplates with an MDX blog, TypeScript and Shadcn UI
-
 
 ### Databases
 - [Appwrite](https://appwrite.io) - Open-source backend-as-a-service platform for databases.
